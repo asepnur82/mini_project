@@ -1,0 +1,5 @@
+2024/06/24-01:17:32.561 3764 Reusing MANIFEST C:\My_Project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\profile\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/24-01:17:32.575 3764 Recovering log #235
+2024/06/24-01:17:32.576 3764 Level-0 table #237: started
+2024/06/24-01:17:32.678 3764 Level-0 table #237: 12294 bytes OK
+2024/06/24-01:17:32.805 3764 Delete type=0 #235

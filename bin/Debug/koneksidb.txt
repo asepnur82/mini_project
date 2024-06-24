@@ -1,0 +1,1 @@
+﻿server=DESKTOP-4MC39FA;user=sa;password=password1;database=wa_center
